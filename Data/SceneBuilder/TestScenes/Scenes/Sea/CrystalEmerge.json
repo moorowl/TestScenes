@@ -1,0 +1,12 @@
+{
+	"structure": "TestScenes:Sea/CrystalEmerge",
+	"generation": {
+		"canFlip": "HorizontalAndVertical",
+		"random": {
+			"maxOccurrences": 3,
+			"biomesToSpawnIn": [
+				"Sea"
+			]
+		}
+	}
+}

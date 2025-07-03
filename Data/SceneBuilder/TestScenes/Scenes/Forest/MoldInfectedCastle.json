@@ -1,0 +1,12 @@
+{
+	"structure": "TestScenes:Forest/MoldInfectedCastle",
+	"generation": {
+		"canFlip": "Horizontal",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Nature"
+			]
+		}
+	}
+}

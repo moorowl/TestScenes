@@ -1,0 +1,11 @@
+{
+	"structure": "TestScenes:Metropolis/CityAquarium",
+	"generation": {
+		"dungeon": [
+			{
+				"internalName": "CityDungeon",
+				"sceneGroupIndex": 0
+			}
+		]
+	}
+}

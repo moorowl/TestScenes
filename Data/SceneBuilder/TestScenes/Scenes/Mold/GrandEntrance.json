@@ -1,0 +1,11 @@
+{
+	"structure": "TestScenes:Mold/GrandEntrance",
+	"generation": {
+		"dungeon": [
+			{
+				"internalName": "MoldDungeon0",
+				"sceneGroupIndex": 0
+			}
+		]
+	}
+}

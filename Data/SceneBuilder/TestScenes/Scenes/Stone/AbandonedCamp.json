@@ -1,0 +1,12 @@
+{
+	"structure": "TestScenes:Stone/AbandonedCamp",
+	"generation": {
+		"canFlip": "Horizontal",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Stone"
+			]
+		}
+	}
+}

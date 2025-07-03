@@ -1,0 +1,11 @@
+{
+	"guid": "9c435272be3f4ad287f08c2ab3a919fe",
+	"name": "TestScenes",
+	"skipSafetyChecks": false,
+	"disableScripts": true,
+	"accessesExtraAssemblies": false,
+	"disableHarmonyPatching": false,
+	"requiredOn": 0,
+	"files": [],
+	"dependencies": []
+}

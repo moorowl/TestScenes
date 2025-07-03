@@ -1,0 +1,12 @@
+{
+	"structure": "TestScenes:Forest/TempleRuin",
+	"generation": {
+		"canFlip": "Horizontal",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Nature"
+			]
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"structure": "TestScenes:Dirt/TurfSpiral",
+	"generation": {
+		"canFlip": "HorizontalAndVertical",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Slime"
+			]
+		}
+	}
+}

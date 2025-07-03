@@ -1,0 +1,12 @@
+{
+	"structure": "TestScenes:Forest/CrystalEmerge",
+	"generation": {
+		"canFlip": "HorizontalAndVertical",
+		"random": {
+			"maxOccurrences": 3,
+			"biomesToSpawnIn": [
+				"Nature"
+			]
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"structure": "TestScenes:Desert/CrystalEmerge",
+	"generation": {
+		"canFlip": "HorizontalAndVertical",
+		"random": {
+			"maxOccurrences": 3,
+			"biomesToSpawnIn": [
+				"Desert"
+			]
+		}
+	}
+}

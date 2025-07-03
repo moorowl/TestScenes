@@ -1,0 +1,16 @@
+{
+	"structure": "TestScenes:Dirt/FigureEightTrack",
+	"generation": {
+		"canFlip": "HorizontalAndVertical",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Slime",
+				"Larva",
+				"Stone",
+				"Nature",
+				"Desert"
+			]
+		}
+	}
+}
