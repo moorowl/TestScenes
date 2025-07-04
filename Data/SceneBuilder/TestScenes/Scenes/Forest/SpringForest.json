@@ -1,7 +1,7 @@
 {
 	"structure": "TestScenes:Forest/SpringForest",
 	"generation": {
-		"canFlip": "HorizontalAndVertical",
+		"canFlip": "Horizontal",
 		"random": {
 			"maxOccurrences": 1,
 			"biomesToSpawnIn": [
