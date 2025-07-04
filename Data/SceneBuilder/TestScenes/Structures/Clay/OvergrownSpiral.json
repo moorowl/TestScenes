@@ -216,7 +216,8 @@
 			"position": [ 9, 7 ],
 			"properties": {
 				"direction": [ 0, 0, -1 ],
-				"inventory": []
+				"inventory": [],
+				"inventoryLootTable": "CopperChest"
 			}
 		},
 		{
